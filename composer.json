@@ -1,0 +1,14 @@
+{
+  "name": "drupal/simple_rest",
+  "type": "drupal-module",
+  "description": "My Awesome Module",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://www.drupal.org/project/simple_rest",
+  "minimum-stability": "dev",
+  "support": {
+    "issues": "http://drupal.org/project/issues/simple_rest",
+    "source": "http://cgit.drupalcode.org/simple_rest"
+  },
+  "require": { }
+}

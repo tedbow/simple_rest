@@ -1,0 +1,6 @@
+services:
+  simple_rest.route_subscriber:
+    class: Drupal\simple_rest\Routing\RouteSubscriber
+    tags:
+      - { name: event_subscriber }
+
